@@ -1,0 +1,3 @@
+#s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8125 data ("/Users/levichen/tenpay/tenpay_code/Tenpay3.0_proj/trunk/source_server/" ("src/operation/SourceOp.cpp" "include/SourceServer.h" "include/operation/TransHash.h" "src/admin/makefile" "include/comm/table_des.h" "src/table_op/query_t_user_hb.cpp" "src/admin/#admin_cc_reload.cpp#" "include/admin/admin_cc_reload.h" "include/admin/proc_admin.h" "src/admin/admin_cc_reload.cpp" "svn: E170013: Unable to connect to a repository at URL 'http://tc-svn.tencent.com/pay/pay_tenpay3_rep/Tenpay3.0_proj/branches/source_server_V3.0D0084'
+svn: E175002: Unexpected HTTP status 502 'Bad Gateway' on '/pay/pay_tenpay3_rep/Tenpay3.0_proj/branches/source_server_V3.0D0084'
+")))

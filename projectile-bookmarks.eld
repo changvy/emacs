@@ -1,0 +1,1 @@
+("~/tenpay/tenpay_code/Tenpay3.0_proj/trunk/source_server/" "~/.emacs.d/" "~/tenpay/tenpay_code/core_check_proj/branches/core_trans_check/core_trans_check_V3.0D0042/")
